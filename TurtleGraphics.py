@@ -1,7 +1,7 @@
 #TurtleGraphics.py
 #Name: Michelle Diaz
 #Date:9/21/2025
-#Assignment:
+#Assignment: TurtleGraphics
 
 import turtle #needed generally but not in CodeHS
 hideturtle() #hides the default turtle in CodeHS
